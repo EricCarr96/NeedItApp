@@ -62,7 +62,7 @@ if(newValue == 'it'){
 		// value from the record before it was loaded
 	
 	if(isLoading && !g_form.isNewRecord()){
-		g_form.setValue('u_wht_needed', whatneeded);
+		g_form.setValue('u_wht_needed', whatNeeded);
 	}
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
@@ -71,7 +71,7 @@ if(newValue == 'it'){
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f337bd5c2fbbe010003e2d6df699b667</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>NeedIt Request Type Options</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_490092_needit">02a006b32f236010003e2d6df699b607</sys_package>
@@ -79,7 +79,7 @@ if(newValue == 'it'){
         <sys_scope display_value="NeedIt">02a006b32f236010003e2d6df699b607</sys_scope>
         <sys_update_name>sys_script_client_f337bd5c2fbbe010003e2d6df699b667</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-04-24 17:04:24</sys_updated_on>
+        <sys_updated_on>2021-04-25 02:43:22</sys_updated_on>
         <table>x_490092_needit_needit</table>
         <type>onChange</type>
         <ui_type>10</ui_type>
